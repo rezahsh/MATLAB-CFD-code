@@ -2,7 +2,9 @@
 Solution of 2D turbulent spatial mixing layer using RANS
 
 Reza Sheikhi
+
 University of Connecticut
+
 Spring 2015
 
 Experiment data for the mixing layer case:
