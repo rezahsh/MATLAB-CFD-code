@@ -1,4 +1,4 @@
-# MATLAB CFD code
+# Mixing Layer case
 Solution of 2D turbulent spatial mixing layer using RANS
 
 Reza Sheikhi
