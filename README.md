@@ -9,4 +9,4 @@ The boundary conditions are implemented using ghost cells. The pressure velocity
 
 Two cases are available:
 * Duct-Flow: Incompressible flow in a 2D duct
-* Mixing-layer: Incompressible flow in a mixing layer
+* Mixing-layer: Incompressible flow in a spatial mixing layer
