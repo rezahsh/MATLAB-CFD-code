@@ -8,5 +8,5 @@ It incorporates an explicit spatial second order, temporal first order accurate 
 The boundary conditions are implemented using ghost cells. The pressure velocity link is handled using the Semi-Implicit Method for Pressure Linked Equations (SIMPLE) method.
 
 Two cases are available:
-* Duct-Flow: Incompressible flow in a 2D duct
-* Mixing-layer: Incompressible flow in a spatial mixing layer
+* [Duct-Flow](https://github.com/rezahsh/MATLAB-CFD-code/tree/master/duct-flow): Incompressible flow in a 2D duct
+* [Mixing-layer](https://github.com/rezahsh/MATLAB-CFD-code/tree/master/mixing-layer): Incompressible flow in a spatial mixing layer
